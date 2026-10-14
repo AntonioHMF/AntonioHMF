@@ -1,6 +1,6 @@
 ## Olá, meu nome é Antônio Henrique 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=antonioHMF)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AntonioHMF&layout=donut-vertical&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=AntonioHMF&layout=donut-vertical&langs_count=4&theme=dark_github)
 
 
 - 🔭 Atualmente, estou trabalhando com desenvolvimento de sistemas em python
