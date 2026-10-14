@@ -4,8 +4,6 @@
   <a href = "https://github.com/AntonioHMF/AntonioHMF">
     
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AntonioHMF&layout=donut-vertical&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=AntonioHMF&layout=donut-vertical&langs_count=4&theme=dark_github)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AntonioHMF&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=AntonioHMF&include_all_commits=true&theme=dark_github)
-
 </div>
 
 
