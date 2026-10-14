@@ -12,7 +12,6 @@
 - 👯 Contate-me no email: antoniohenriquemfreitas@gmail.com
 - 🤔 Busca ajuda na área de engenharia de dados
 - 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: ...
 
 <div style="display: inline_block"><br>
   <img align="center" alt = "AntonioHMF" height = "50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
