@@ -1,12 +1,11 @@
 ## Olá, meu nome é Antônio Henrique 
-# Atualmente, sou estudante do Instituto Federal de São Paulo e cursando Engenharia de Computação
 <div>
   <a href = "https://github.com/AntonioHMF/AntonioHMF">
     
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AntonioHMF&layout=compact&langs_count=4&hide_values=true&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=AntonioHMF&layout=compact&langs_count=4&hide_values=true&theme=nightowl)
 </div>
 
-
+- 🎓 Estudante do Instituto Federal de São Paulo e cursando Engenharia de Computação
 - 🔭 Atualmente, estou trabalhando com desenvolvimento de sistemas em python
 - 🌱 Estudando Banco de Dados
 - 👯 Contate-me no email: antoniohenriquemfreitas@gmail.com
